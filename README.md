@@ -17,8 +17,7 @@ Well good news! You can do this manually by switching between each battery and c
   
 Not anymore! This script does it for you!
   
-  ## 
-Features :  
+## Features :  
 1. Collects data on *all* batteries.  
 2. Calculates Current charge, max charge, input, max input, output, max input, time until full charge, time until discharge of the local grid.  
 3. Allows you to output all or one of the above data on an LCD or cockpit screen. (By default shows all of the information on the Program block screen)  
