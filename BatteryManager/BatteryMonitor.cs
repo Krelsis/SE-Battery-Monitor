@@ -560,7 +560,7 @@ namespace BatteryManager
                     {
                         if (connector.Status == MyShipConnectorStatus.Connected)
                         {
-                            Echo(connector.OtherConnector.CubeGrid.IsStatic.ToString());
+                            //Echo(connector.OtherConnector.CubeGrid.IsStatic.ToString());
                             connected = true;
                         }
                     }
