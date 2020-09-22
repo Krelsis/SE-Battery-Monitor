@@ -47,7 +47,7 @@ Either put the tag in the Custom Data section or straight into the name (end of 
 **[BatteryOutput]** : The current output of the grid.  
 **[BatteryMaxOutput]** : The maximum output the grid can support.  
 **[BatterySummary]** : Shows all of the above information.  
-**[BatteryStatus]** : Same as [BatterySummary]
+**[BatteryStatus]** : Same as [BatterySummary] 
 **[BatteryChargeSummary]** : A summary displaying whether or not the grid is currently charging or discharging, how long until full charge or full discharge.  
 **[BatteryChargeStatus]** : Same as [BatteryChargeSummary]  
   
