@@ -1065,7 +1065,7 @@ namespace BatteryManager
             var PowerInGigaWatts = PowerInMegaWatts / 1000;
             var PowerInTeraWatts = PowerInGigaWatts / 1000;
             var PowerInPetaWatts = PowerInTeraWatts / 1000;
-            var PowerInExaWatts = PowerInTeraWatts / 1000;
+            var PowerInExaWatts = PowerInPetaWatts / 1000;
             var PowerInZettaWatts = PowerInExaWatts / 1000;
 
             if (PowerInZettaWatts >= 1)
